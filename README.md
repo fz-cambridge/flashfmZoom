@@ -46,7 +46,7 @@ The authors would like to thank the authors of KnockoffZoom (Sesia et al., 2020,
 ## Supplementary Material
 See online appendix and README on (http:...), which also includes YouTube video demonstrations of the tool.
 
-## Data Avilability
+## Data Availability
 The example datasets can be found in the linked [Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg). Other external data sources: (1) UK Biobank GWAS summary statistics: http://www.nealelab.is/uk-biobank and https://github.com/Nealelab/UK_Biobank_GWAS; (2) LD matrices for the UK Biobank: https://alkesgroup.broadinstitute.org/UKBB_LD/; (3) Trait correlation between traits in the UK Biobank: https://ukbb-rg.hail.is or the associated data in Supplementary Materials (Bulik-Sullivan et al., 2015) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797329/#sd2; (4) GWAS publications from GWASATLAS https://atlas.ctglab.nl (Watanabe et al., 2019); (5) Gene positions file ncbiRefSeq.txt https://www.ncbi.nlm.nih.gov/refseq/ (O'Leary et al., 2016); (6) Variant annotations (ENCODE Project Consortium, 2012) file wgEncodeBroadHmmGm12878HMM.txt from http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeBroadHmm/  
 
 ## Further references
@@ -58,9 +58,17 @@ The example datasets can be found in the linked [Google Drive](https://drive.goo
 > Boughton, A. P., Welch, R. P., Flickinger, M., VandeHaar, P., Taliun, D., Abecasis, G. R., & Boehnke, M. (2021). <br />
 > Bioinformatics, 37(18), 3017-3018. [https://doi.org/10.1093/bioinformatics/btab186](https://doi.org/10.1093/bioinformatics/btab186).
 
+> *An atlas of genetic correlations across human diseases and traits.* <br />
+> Bulik-Sullivan, B., Finucane, H. K., Anttila, V., Gusev, A., Day, F. R., Loh, P. R., ... & Neale, B. M. (2015). <br />
+> Nature genetics, 47(11), 1236-1241. [https://www.nature.com/articles/ng.3406](https://www.nature.com/articles/ng.3406).
+
+> *ENCODE Project Consortium. (2012).* <br />
+> An integrated encyclopedia of DNA elements in the human genome. <br />
+> Nature. Sep 6;489(7414):57-74. [https://www.nature.com/articles/nature11247](https://www.nature.com/articles/nature11247).
+
 > *The flashfm approach for fine-mapping multiple quantitative traits.* <br />
 > Hernandez, N., Soenksen, J., Newcombe, P., Sandhu, M., Barroso, I., Wallace, C., Asimit, J.L. (2021). <br />
-> Nat Commun 12, 6147. [https://doi.org/10.1038/s41467-021-26364-y](https://doi.org/10.1038/s41467-021-26364-y).
+> Nature communications, 12, 6147. [https://doi.org/10.1038/s41467-021-26364-y](https://doi.org/10.1038/s41467-021-26364-y).
 
 > *Fine-mapping genetic associations.* <br />
 > Hutchinson, A., Asimit, J., Wallace, C. (2020). <br />
@@ -69,6 +77,10 @@ The example datasets can be found in the linked [Google Drive](https://drive.goo
 > *JAM: a scalable Bayesian framework for joint analysis of marginal SNP effects.* <br />
 > Newcombe, P. J., Conti, D. V. & Richardson, S. (2016). <br />
 > Genet. Epidemiol. 40, 188–201. [https://doi.org/10.1002/gepi.21953](https://doi.org/10.1002/gepi.21953).
+
+> *Reference sequence (Ref-Seq) database at NCBI: current status, taxonomic expansion, and functional annotation.* <br />
+> O'Leary, N. A., Wright, M. W., Brister, J. R., Ciufo, S., Haddad, D., McVeigh, R., ... & Pruitt, K. D. (2016). <br />
+> Nucleic acids research, 44(D1), D733-D745. [https://doi.org/10.1093/nar/gkv1189](https://doi.org/10.1093/nar/gkv1189).
 
 > *LocusZoom: regional visualization of genome-wide association scan results.* <br />
 > Pruim, R. J., Welch, R. P., Sanna, S., Teslovich, T. M., Chines, P. S., Gliedt, T. P., ... & Willer, C. J. (2010). <br />
@@ -85,6 +97,10 @@ The example datasets can be found in the linked [Google Drive](https://drive.goo
 > *False discovery rate control in genome-wide association studies with population structure.* <br />
 > Sesia, M., Bates, S., Candès, E., Marchini, J., & Sabatti, C. (2021). <br />
 > PNAS, 118(40), e2105841118. [https://doi.org/10.1073/pnas.2105841118](https://doi.org/10.1073/pnas.2105841118).
+
+> *A global overview of pleiotropy and genetic architecture in complex traits.* <br />
+> Watanabe, K., Stringer, S., Frei, O. et al. (2019). <br />
+> Nature genetics, 51, 1339–1348. [https://www.nature.com/articles/s41588-019-0481-0](https://www.nature.com/articles/s41588-019-0481-0).
 
 > *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits.* <br />
 > Zhou, F., Butterworth, A. S., & Asimit, J. L. (2022). <br />
