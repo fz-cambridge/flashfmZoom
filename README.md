@@ -61,7 +61,7 @@ See online appendix and README on (http:...), which also includes YouTube video 
 
 > *Fine-mapping genetic associations.* <br />
 > Hutchinson, A., Asimit, J., Wallace, C. (2020). <br />
-> Human Molecular Genetics, Volume 29, Issue R1, Pages R81–R88. [https://doi.org/10.1093/hmg/ddaa148](https://doi.org/10.1093/hmg/ddaa148).
+> Human Molecular Genetics, 29(R1), 81–88. [https://doi.org/10.1093/hmg/ddaa148](https://doi.org/10.1093/hmg/ddaa148).
 
 > *JAM: a scalable Bayesian framework for joint analysis of marginal SNP effects.* <br />
 > Newcombe, P. J., Conti, D. V. & Richardson, S. (2016). <br />
