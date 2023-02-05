@@ -3,7 +3,7 @@
 
 <!-- badges: start -->
 <!--- [![DOI](https://zenodo.org/badge/000000000.svg)](https://zenodo.org/badge/latestdoi/000000000) ---> 
-(<!-- badges: end -->
+<!-- badges: end -->
 
 
 [*flashfmZoom*](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg): a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
