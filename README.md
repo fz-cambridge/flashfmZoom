@@ -1,10 +1,8 @@
 # flashfmZoom
 
-
 <!-- badges: start -->
 <!--- [![DOI](https://zenodo.org/badge/000000000.svg)](https://zenodo.org/badge/latestdoi/000000000) ---> 
 <!-- badges: end -->
-
 
 [*flashfmZoom*](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg): a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
 
@@ -28,9 +26,10 @@ For more information, visit:
 Users can directly use the online version of these tools without installing any packages or previous experience in programming languages. If users would like to run analyses in their local machines, then please download the codes from the [public online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and open the Rshiny app in the local [RStudio](https://www.rstudio.com).
 
 ## Detailed installation steps
-> MacOS:
-> Linux:
-> Windows:
+  - RStudio/Posit Cloud:
+  - MacOS:
+  - Linux:
+  - Windows:
 
 ## Examples
 > Screenshots
@@ -72,18 +71,18 @@ See online appendix and README on (http:...), which also includes YouTube video 
 > Pruim, R. J., Welch, R. P., Sanna, S., Teslovich, T. M., Chines, P. S., Gliedt, T. P., ... & Willer, C. J. (2010). <br />
 > Bioinformatics, 26(18), 2336-2337. [https://doi.org/10.1093/bioinformatics/btq419](https://doi.org/10.1093/bioinformatics/btq419).
 
-> *echolocatoR: an automated end-to-end statistical and functional genomic fine-mapping pipeline. * <br />
+> *echolocatoR: an automated end-to-end statistical and functional genomic fine-mapping pipeline.* <br />
 > Schilder, B. M., Humphrey, J., & Raj, T. (2021). <br />
 > Bioinformatics, 38(2), 536–539. [https://doi.org/10.1093/bioinformatics/btab658](https://doi.org/10.1093/bioinformatics/btab658).
 
-> *Multi-resolution localization of causal variants across the genome. * <br />
+> *Multi-resolution localization of causal variants across the genome.* <br />
 > Sesia, M., Katsevich, E., Bates, S., Candès, E., & Sabatti, C. (2020). <br />
 > Nature communications, 11(1), 1-10. [https://www.nature.com/articles/s41467-020-14791-2](https://www.nature.com/articles/s41467-020-14791-2).
 
-> *False discovery rate control in genome-wide association studies with population structure. * <br />
+> *False discovery rate control in genome-wide association studies with population structure.* <br />
 > Sesia, M., Bates, S., Candès, E., Marchini, J., & Sabatti, C. (2021). <br />
 > PNAS, 118(40), e2105841118. [https://doi.org/10.1073/pnas.2105841118](https://doi.org/10.1073/pnas.2105841118).
 
-> *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits. * <br />
+> *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits.* <br />
 > Zhou, F., Butterworth, A. S., & Asimit, J. L. (2022). <br />
 > Bioinformatics, 38(17), 4238–4242. [https://doi.org/10.1093/bioinformatics/btac453](https://doi.org/10.1093/bioinformatics/btac453).
