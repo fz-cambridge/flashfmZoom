@@ -1,7 +1,7 @@
 # flashfmZoom
 
 <!-- badges: start -->
-<!--- [![DOI](https://zenodo.org/badge/000000000.svg)](https://zenodo.org/badge/latestdoi/000000000) ---> 
+<!--- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7622740.svg)](https://doi.org/10.5281/zenodo.7622740) ---> 
 <!-- badges: end -->
 
 [*flashfmZoom*](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg): a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
