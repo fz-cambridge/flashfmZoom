@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7622740.svg)](https://doi.org/10.5281/zenodo.7622740)
 <!-- badges: end -->
 
-[*flashfmZoom*](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg): a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
+*flashfmZoom*: a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
 
 The **quick instruction README file** of this tool, its source code and pre-loaded dataset [can be downloaded publicly here](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg). Please Note: The latest updated *Version-2023-Feb-05* requires a few pre-loaded large datasets (i.e.: approx. 3GB), therefore we saved all source code and datasets in the [public online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) for users to download easily. Users just need download the whole folders into the local machine and run the *app.R* (i.e.: Rshiny file) on the [RStudio](https://www.rstudio.com). 
 
