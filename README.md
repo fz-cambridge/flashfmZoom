@@ -31,6 +31,7 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
   2. RStudio/Posit Cloud Version: 
 > - Users can sign up a Posit Cloud free account and login the [flashfmZoom workspace via this shared link](https://posit.cloud/spaces/334175/join?access_code=Avh2UybWg11kJlMMws1bZJi-UrSWx9NMPYM6YnIl) <br />
 > - The limit of RAM memory size is increased to a maxmium of 16GB, but some large regions may still exceed the limit.
+> - Read this detailed instruction to open and run the flashfmZoom in the cloud, each user has an individual space and will not affect other users.
   3. Local Machines Version:
 > - MacOS <br />
 > - Linux <br />
