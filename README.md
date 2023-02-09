@@ -13,8 +13,7 @@ Accompanying paper:
 > Feng Zhou, Colin Starr, Adam S Butterworth, Jennifer L Asimit <br />
 > The preprint/paper and its supplementary material can be downloaded here...
 
-For a quick YouTube demo, visit the playlist:
-> [flashfmZoom on YouTube](https://www.youtube.com/watch?v=RHNEcfTD30o&list=PLcy5X5WM9r0D2mDX2PvgBXq5xGvUr61xn)
+For a quick YouTube demo, visit this playlist: [flashfmZoom on YouTube](https://www.youtube.com/watch?v=RHNEcfTD30o&list=PLcy5X5WM9r0D2mDX2PvgBXq5xGvUr61xn)
 
 ## Overview
 *flashfmZoom* is an all-in-one tool for analysis and interactive visualisation of potential causal genetic variants that underlie associations with quantitative traits from the UK Biobank. It offers a user-friendly interface and guides users in the selection of pleiotropic regions among subsets of 134 quantitative traits, such as cardiometabolic, hematologic, and respiratory traits. Users may then run single-trait fine-mapping, allowing for multiple causal variants, and leverage information between the traits using multi-trait fine-mapping to improve resolution. A series of interactive plots and downloadable tables are generated within flashfmZoom to identify potential causal variants that are shared or distinct between the traits; it also lists relevant literature for the traits and/or variants. Besides exploring traits that are well-known to be related, flashfmZoom encourages interactive exploration for the joint analysis of traits that may not often be considered together. This may reveal common aetiological pathways between traits related to different disorders.
