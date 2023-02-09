@@ -24,8 +24,12 @@ For a quick YouTube demo: [flashfmZoom on YouTube](https://www.youtube.com/watch
 There are three different ways/options of using this tool: *online*, *cloud* or *local*. This section explains pros and cons, as well as the implementation steps of each option. The *online* version is the most convenient option for users to experience and interact with this tool, but some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). The *cloud* version increases the limit of memory size to a maxmium of 16GB, but it requires users to login the [Posit/RStudio Cloud](https://posit.cloud) by signing up [a free account](https://posit.cloud/plans/free). Finally, the *local* version allows users to install the tool on their local machines to aviod possible memory limits, but it requires users to follow some extra steps of installing the related R packages.
 
 ### Detailed steps
-  - Online web-based version: simply play and explore this interactive web [https://mrc-bsu.shinyapps.io/flashfmZoomOnline/](https://mrc-bsu.shinyapps.io/flashfmZoomOnline/)
-  - RStudio/Posit Cloud: Users can sign up a Posit Cloud free account and login this [flashfmZoom shared link](https://posit.cloud/spaces/334175/join?access_code=Avh2UybWg11kJlMMws1bZJi-UrSWx9NMPYM6YnIl)
+  - Online web-based version: 
+> Simply play and explore this interactive web [https://mrc-bsu.shinyapps.io/flashfmZoomOnline/](https://mrc-bsu.shinyapps.io/flashfmZoomOnline/)
+> Please note: Some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time).
+  - RStudio/Posit Cloud: 
+> Users can sign up a Posit Cloud free account and login this [flashfmZoom shared link](https://posit.cloud/spaces/334175/join?access_code=Avh2UybWg11kJlMMws1bZJi-UrSWx9NMPYM6YnIl)
+> The limit of RAM memory size is increased to a maxmium of 16GB, but some large regions may still exceed the limit.
   - MacOS:
   - Linux:
   - Windows:
