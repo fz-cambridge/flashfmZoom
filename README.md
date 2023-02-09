@@ -18,19 +18,16 @@ For a quick YouTube demo, visit this playlist: [flashfmZoom on YouTube](https://
 ## Overview
 *flashfmZoom* is an all-in-one tool for analysis and interactive visualisation of potential causal genetic variants that underlie associations with quantitative traits from the UK Biobank. It offers a user-friendly interface and guides users in the selection of pleiotropic regions among subsets of 134 quantitative traits, such as cardiometabolic, hematologic, and respiratory traits. Users may then run single-trait fine-mapping, allowing for multiple causal variants, and leverage information between the traits using multi-trait fine-mapping to improve resolution. A series of interactive plots and downloadable tables are generated within flashfmZoom to identify potential causal variants that are shared or distinct between the traits; it also lists relevant literature for the traits and/or variants. Besides exploring traits that are well-known to be related, flashfmZoom encourages interactive exploration for the joint analysis of traits that may not often be considered together. This may reveal common aetiological pathways between traits related to different disorders.
 
-## Availability and Implementation
-*flashfmZoom* is an open-source software under the MIT license. It is available as an interactive web-based tool [https://github.com/fz-cambridge](https://github.com/fz-cambridge) and as an R package. Code and documentation are available at [https://github.com/fz-cambridge](https://github.com/fz-cambridge) and [https://github.com/jennasimit](https://github.com/jennasimit). Additional features can be downloaded as standalone R libraries to encourage reuse. 
-
-## Installation
+## Availability and Installation
 Users can directly use the online version of these tools without installing any packages or previous experience in programming languages. If users would like to run analyses in their local machines, then please download the codes from the [public online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and open the Rshiny app in the local [RStudio](https://www.rstudio.com).
 
-## Detailed installation steps
+### Detailed installation steps
   - RStudio/Posit Cloud:
   - MacOS:
   - Linux:
   - Windows:
 
-## Examples
+### Examples
 > Screenshots
 
 ## Authors
