@@ -13,6 +13,8 @@ Accompanying paper:
 > Feng Zhou, Colin Starr, Adam S Butterworth, Jennifer L Asimit <br />
 > The preprint/paper and its supplementary material can be downloaded here...
 
+For a detailed instruction: [online supplementary material](https://drive.google.com/file/d/1DscAsaDsQDYMPp4btlLO15W3vFcGXA4c/view?usp=sharing)
+
 For a quick YouTube demo, visit this playlist: [flashfmZoom on YouTube](https://www.youtube.com/watch?v=RHNEcfTD30o&list=PLcy5X5WM9r0D2mDX2PvgBXq5xGvUr61xn)
 
 ## Overview
