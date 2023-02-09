@@ -42,7 +42,7 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
 > - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly.
 
 ### Examples
-<img width="1471" alt="Screenshot 2023-02-08 at 18 11 57" src="https://user-images.githubusercontent.com/100029652/217942934-c1264690-b227-4b9b-9121-413ed1097631.png">
+<img width="1463" alt="example" src="https://user-images.githubusercontent.com/100029652/217943480-41023572-ac16-45cf-8fea-916bc764246e.png">
 
 ## Authors
    - [Jennifer Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/) (University of Cambridge)
