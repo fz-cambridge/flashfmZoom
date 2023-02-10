@@ -24,7 +24,7 @@ For a quick YouTube demo: [flashfmZoom on YouTube](https://www.youtube.com/watch
 ![flashfmZoom_flowchart_20220818](https://user-images.githubusercontent.com/100029652/217927038-b8246c0b-c9b2-4be8-b6c1-f56f79a3788d.png)
 
 ## Availability and Installation
-There are three different ways/options of using this tool: *online*, *cloud* or *local*. This section explains pros and cons, as well as the implementation steps of each option. The *online* version is the most convenient option for users to experience and interact with this tool, but some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). The *cloud* version increases the limit of memory size to a maximum of 16GB, but it requires users to login the [Posit/RStudio Cloud](https://posit.cloud) by signing up [a free account](https://posit.cloud/plans/free). Finally, the *local* version allows users to install the tool on their local machines to aviod possible memory limits, but it requires users to follow some extra steps of installing the related R packages.
+There are three different ways/options of using this tool: *online*, *cloud* or *local*. This section explains pros and cons, as well as the implementation steps of each option. The *online* version is the most convenient option for users to experience and interact with this tool, but some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). The *cloud* version increases the limit of memory size to a maximum of 16GB, but it requires users to login the [Posit/RStudio Cloud](https://posit.cloud) by signing up [a free account](https://posit.cloud/plans/free). Finally, the *local* version allows users to install the tool on their local machines to avoid possible memory limits, but it requires users to follow some extra steps of installing the related R packages.
 
 ### Detailed steps
   1. Online Web-based Version
@@ -33,7 +33,7 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
 > - Please keep reloading or refreshing the page, if it does not show the content after waiting 1 minute.
   2. RStudio/Posit Cloud Version 
 > - Users can sign up a Posit Cloud free account and login the [flashfmZoom workspace via this shared link](https://posit.cloud/spaces/334175/join?access_code=Avh2UybWg11kJlMMws1bZJi-UrSWx9NMPYM6YnIl) <br />
-> - The limit of RAM memory size is increased to a maxmium of 16GB, but some large regions may still exceed the limit.
+> - The limit of RAM memory size is increased to a maximum of 16GB, but some large regions may still exceed the limit.
 > - Read this detailed instruction to open and run the flashfmZoom in the cloud, each user has an individual space and will not affect other users.
   3. Local Machine Version
 > - MacOS: download *flashfmZoomLocal_MacOS.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the detailed instruction. <br />
