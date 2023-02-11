@@ -50,6 +50,8 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
 
 <img width="1645" alt="example_3" src="https://user-images.githubusercontent.com/100029652/218249650-20dbc717-d6ac-49bf-8330-f6549001f711.png">
 
+<img width="1645" alt="example_4" src="https://user-images.githubusercontent.com/100029652/218249690-2f3dbd5d-efa2-42e2-9401-721d9c73808f.png">
+
 ## Authors
    - [Jennifer Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/) (University of Cambridge)
    - [Adam Butterworth](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/adam-butterworth/) (University of Cambridge)
