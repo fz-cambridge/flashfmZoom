@@ -40,7 +40,7 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
   3. Local Machine Version
 > - MacOS: download *flashfmZoomLocal_MacOS.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
 > - Linux/Unix: download *flashfmZoomLocal_Unix.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
-> - Windows/PC: download *flashfmZoomLocal_PC.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
+> - Windows/PC: download *flashfmZoomLocal_Windows.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
 > - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly.
 
 ### Examples
