@@ -13,9 +13,11 @@ Accompanying paper:
 > Feng Zhou, Colin Starr, Adam S Butterworth, Jennifer L Asimit <br />
 > The preprint/paper can be downloaded here...
 
-For a detailed instruction: [online supplementary material](https://drive.google.com/file/d/1DscAsaDsQDYMPp4btlLO15W3vFcGXA4c/view?usp=sharing)
+For a detailed user instruction: [online supplementary material](https://drive.google.com/file/d/1DscAsaDsQDYMPp4btlLO15W3vFcGXA4c/view?usp=sharing)
 
 For a quick YouTube demo: [flashfmZoom on YouTube](https://www.youtube.com/watch?v=RHNEcfTD30o&list=PLcy5X5WM9r0D2mDX2PvgBXq5xGvUr61xn)
+
+For a step-by-step installation: [flashfmZoom_installation_GitHub](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing)
 
 ## Overview
 *flashfmZoom* is an all-in-one tool for analysis and interactive visualisation of potential causal genetic variants that underlie associations with quantitative traits from the UK Biobank. It offers a user-friendly interface and guides users in the selection of pleiotropic regions among subsets of 134 quantitative traits, such as cardiometabolic, hematologic, and respiratory traits. Users may then run single-trait fine-mapping, allowing for multiple causal variants, and leverage information between the traits using multi-trait fine-mapping to improve resolution. A series of interactive plots and downloadable tables are generated within flashfmZoom to identify potential causal variants that are shared or distinct between the traits; it also lists relevant literature for the traits and/or variants. Besides exploring traits that are well-known to be related, flashfmZoom encourages interactive exploration for the joint analysis of traits that may not often be considered together. This may reveal common aetiological pathways between traits related to different disorders.
@@ -27,18 +29,18 @@ For a quick YouTube demo: [flashfmZoom on YouTube](https://www.youtube.com/watch
 There are three different ways/options of using this tool: *online*, *cloud* or *local*. This section explains pros and cons, as well as the implementation steps of each option. The *online* version is the most convenient option for users to experience and interact with this tool, but some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). The *cloud* version increases the limit of memory size to a maximum of 16GB, but it requires users to login the [Posit/RStudio Cloud](https://posit.cloud) by signing up [a free account](https://posit.cloud/plans/free). Finally, the *local* version allows users to install the tool on their local machines to avoid possible memory limits, but it requires users to follow some extra steps of installing the related R packages.
 
 ### Detailed steps
-  1. Online Web-based Version
+  1. Online Web-based Version (ideally, as a quick demo)
 > - Simply play and explore this interactive web [https://mrc-bsu.shinyapps.io/flashfmZoomOnline/](https://mrc-bsu.shinyapps.io/flashfmZoomOnline/) <br />
 > - Please note: Some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). <br />
 > - Please keep reloading or refreshing the page, if it does not show the content after waiting 1 minute.
-  2. RStudio/Posit Cloud Version 
+  2. RStudio/Posit Cloud Version (ideally, for a new user without R programming)
 > - Users can sign up a Posit Cloud free account and login the [flashfmZoom workspace via this shared link](https://posit.cloud/spaces/334175/join?access_code=Avh2UybWg11kJlMMws1bZJi-UrSWx9NMPYM6YnIl) <br />
 > - The limit of RAM memory size is increased to a maximum of 16GB, but some large regions may still exceed the limit.
 > - Read this detailed instruction to open and run the flashfmZoom in the cloud, each user has an individual space and will not affect other users.
   3. Local Machine Version
-> - MacOS: download *flashfmZoomLocal_MacOS.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the detailed instruction. <br />
-> - Linux/Unix: download *flashfmZoomLocal_Unix.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the detailed instruction. <br />
-> - Windows/PC: download *flashfmZoomLocal_PC.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the detailed instruction. <br />
+> - MacOS: download *flashfmZoomLocal_MacOS.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
+> - Linux/Unix: download *flashfmZoomLocal_Unix.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
+> - Windows/PC: download *flashfmZoomLocal_PC.zip* from [GoogleDrive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
 > - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly.
 
 ### Examples
