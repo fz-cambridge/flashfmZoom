@@ -34,7 +34,7 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
 > - Please note: Some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). <br />
 > - Please keep reloading or refreshing the page, if it does not show the content after waiting 1 minute.
   2. RStudio/Posit Cloud Version (ideally, for a new user without R programming)
-> - Users can sign up a Posit Cloud free account and login the [flashfmZoom workspace via this shared link](https://posit.cloud/spaces/334175/join?access_code=Avh2UybWg11kJlMMws1bZJi-UrSWx9NMPYM6YnIl) <br />
+> - Users can sign up a Posit Cloud free account and login the flashfmZoom workspace via a shared link (at this moment, please email feng.zhou[AT]mrc-bsu.cam.ac.uk for the shared link). <br />
 > - The limit of RAM memory size is increased to a maximum of 16GB, but some large regions may still exceed the limit.
 > - Read this detailed instruction to open and run the flashfmZoom in the cloud, each user has an individual space and will not affect other users.
   3. Local Machine Version
