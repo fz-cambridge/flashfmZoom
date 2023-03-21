@@ -44,15 +44,18 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
 > - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly.
 
 ### Examples
-<img width="1463" alt="example" src="https://user-images.githubusercontent.com/100029652/217943480-41023572-ac16-45cf-8fea-916bc764246e.png">
-
-<img width="1593" alt="example_0" src="https://user-images.githubusercontent.com/100029652/217944142-14f36a36-5ef9-4058-9096-02848eb83e13.png">
-
-<img width="1645" alt="example_2" src="https://user-images.githubusercontent.com/100029652/217943826-d0af1828-9355-4693-b2d5-c296edcb1e61.png">
-
-<img width="1645" alt="example_3" src="https://user-images.githubusercontent.com/100029652/218249650-20dbc717-d6ac-49bf-8330-f6549001f711.png">
-
-<img width="1645" alt="example_4" src="https://user-images.githubusercontent.com/100029652/218249690-2f3dbd5d-efa2-42e2-9401-721d9c73808f.png">
+<img width="1641" alt="A" src="https://user-images.githubusercontent.com/100029652/226725151-30854a2b-3520-492d-bb74-12d3bb19d950.png">
+<img width="1641" alt="B" src="https://user-images.githubusercontent.com/100029652/226725189-8e1ac333-1238-41a1-bdd4-4d3f20f95211.png">
+<img width="1641" alt="C" src="https://user-images.githubusercontent.com/100029652/226725202-ce403b72-3da6-494e-ab7f-bd6227f87721.png">
+<img width="1641" alt="D" src="https://user-images.githubusercontent.com/100029652/226725212-36300772-427f-491d-99ed-8c7d6d814a8a.png">
+<img width="1641" alt="E" src="https://user-images.githubusercontent.com/100029652/226725235-d7d77fc9-9e06-4170-b61f-7eff94bf6468.png">
+<img width="1641" alt="F" src="https://user-images.githubusercontent.com/100029652/226725322-62611cfb-b2d8-4871-880b-5c571c4fe129.png">
+<img width="1753" alt="G" src="https://user-images.githubusercontent.com/100029652/226725361-7f55f03f-a197-43cc-a3ef-cfc11287f4b8.png">
+<img width="1278" alt="H" src="https://user-images.githubusercontent.com/100029652/226725398-883821d9-7093-4afa-857c-4b7d6eef2f7a.png">
+<img width="1266" alt="I" src="https://user-images.githubusercontent.com/100029652/226725439-ccd8ebfa-ef47-42a7-a6ec-706f0df20015.png">
+<img width="1297" alt="J" src="https://user-images.githubusercontent.com/100029652/226725475-f89a9921-0a3d-4896-908e-54fd5578a083.png">
+<img width="989" alt="K" src="https://user-images.githubusercontent.com/100029652/226725519-c42b8230-a6ad-4dd1-af3c-d384939a9f62.png">
+<img width="1298" alt="L" src="https://user-images.githubusercontent.com/100029652/226725568-bcc45dd5-cdbd-48e6-ae53-b628c90469a9.png">
 
 ## Authors
    - [Jennifer Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/) (University of Cambridge)
