@@ -38,8 +38,8 @@ There are three different ways/options of using this tool: *online*, *cloud* or 
 > - The limit of RAM memory size is increased to a maximum of 16GB for all users, therefore there will be no issue.
 > - Read this detailed instruction to open and run the flashfmZoom in the cloud, each user has an individual space and will not affect other users.
   3. Local Machine Version
-> - MacOS: download [flashfmZoomLocal_MacOS.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
-> - Linux/Unix: download [flashfmZoomLocal_Unix.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
+> - MacOS: download [flashfmZoomLocal_MacOS.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1TctlQzYEd989I2PpTk3XU8pPkKu-eBBB/view?usp=sharing). <br />
+> - Linux/Unix: download [flashfmZoomLocal_Unix.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed installation](https://drive.google.com/file/d/1TctlQzYEd989I2PpTk3XU8pPkKu-eBBB/view?usp=sharing). <br />
 > - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly. Therefore, please email feng.zhou@mrc-bsu.cam.ac.uk if you need install Windows/PC version. 
 
 ### Examples
