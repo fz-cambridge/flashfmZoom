@@ -6,7 +6,7 @@
 
 *flashfmZoom*: a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
 
-Please Note: The latest *Version-2023-Feb-11* requires a few pre-loaded large datasets (i.e.: approx. 3GB), therefore we saved all source code and datasets in this [publicly available online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) for users to download easily. Users just need download the whole folders into their local machines and run the *app.R* script (i.e.: Rshiny file) on the [RStudio](https://www.rstudio.com). 
+Please Note: The latest *Version-2023-March-21* requires a few pre-loaded large datasets (i.e.: approx. 3GB), therefore we saved all source code and datasets in this [publicly available online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) for users to download easily. Users just need download the whole folders into their local machines and run the *app.R* script (i.e.: Rshiny file) on the [RStudio](https://www.rstudio.com). 
 
 Accompanying paper:
 > *flashfmZoom: a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank* <br />
@@ -26,22 +26,21 @@ For a step-by-step installation: [flashfmZoom_installation_GitHub](https://drive
 ![flashfmZoom_flowchart_LD](https://user-images.githubusercontent.com/100029652/226724344-4b783a89-dfe2-446c-952b-8e214eff3c54.png)
 
 ## Availability and Installation
-There are three different ways/options of using this tool: *online*, *cloud* or *local*. This section explains pros and cons, as well as the implementation steps of each option. The *online* version is the most convenient option for users to experience and interact with this tool, but some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). The *cloud* version increases the limit of memory size to a maximum of 16GB, but it requires users to login the [Posit/RStudio Cloud](https://posit.cloud) by signing up [a free account](https://posit.cloud/plans/free). Finally, the *local* version allows users to install the tool on their local machines to avoid possible memory limits, but it requires users to follow some extra steps of installing the related R packages.
+There are three different ways/options of using this tool: *online*, *cloud* or *local*. This section explains pros and cons, as well as the implementation steps of each option. The *online* version is the most convenient option for users to experience and interact with this tool, but some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when many online users open and run the interactive website at the same time). The *cloud* version increases the limit of memory size to a maximum of 16GB, but it requires users to login the [Posit/RStudio Cloud](https://posit.cloud) by signing up [a free account](https://posit.cloud/plans/free) (still a quite simple process). Finally, the *local* version allows users to install the tool on their local machines to avoid possible memory limits, but it requires users to follow some extra steps of installing the related R packages.
 
 ### Detailed steps
   1. Online Web-based Version (ideally, as a quick demo)
 > - Simply play and explore this interactive web [https://mrc-bsu.shinyapps.io/flashfmZoomOnline/](https://mrc-bsu.shinyapps.io/flashfmZoomOnline/) <br />
-> - Please note: Some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when online users open the interactive website at the same time). <br />
-> - Please keep reloading or refreshing the page, if it does not show the content after waiting 1 minute.
+> - Please note: Some features may not function due to the limit of real-time RAM memory size (i.e. with a maximum of 8GB) in [Shinyapps.io](https://www.shinyapps.io) (particularly when many online users open the interactive website at the same time). <br />
+> - Please keep reloading or refreshing the page, if it does not show the content after waiting 1-2 minutes.
   2. RStudio/Posit Cloud Version (ideally, for a new user without R programming)
 > - Users can sign up a Posit Cloud free account and login the flashfmZoom workspace via a shared link (at this moment, please email feng.zhou@mrc-bsu.cam.ac.uk for the shared link). <br />
-> - The limit of RAM memory size is increased to a maximum of 16GB, but some large regions may still exceed the limit.
+> - The limit of RAM memory size is increased to a maximum of 16GB for all users, therefore there will be no issue.
 > - Read this detailed instruction to open and run the flashfmZoom in the cloud, each user has an individual space and will not affect other users.
   3. Local Machine Version
 > - MacOS: download [flashfmZoomLocal_MacOS.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed step-by-step installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
 > - Linux/Unix: download [flashfmZoomLocal_Unix.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) and follow the [detailed installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
-> - Windows/PC: [flashfmZoomLocal_Windows.zip](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg), follow the [detailed installation](https://drive.google.com/file/d/1CjWKOcpe0EFX7ul78u9YBuK5seKMF3qL/view?usp=sharing). <br />
-> - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly.
+> - Please note, Windows may have some limitations of using flashfmZoom, such as: (1) It cannot run a multi-core process of [flashfm](https://jennasimit.github.io/flashfm/articles/flashfm.html) function in Windows; (2) It cannot use the option of FLASHFMwithFINEMAP, since [FINEMAP software](http://www.christianbenner.com) may not run on the Windows directly. Therefore, please email feng.zhou@mrc-bsu.cam.ac.uk if you need install Windows/PC version. 
 
 ### Examples
 <img width="1641" alt="A" src="https://user-images.githubusercontent.com/100029652/226725151-30854a2b-3520-492d-bb74-12d3bb19d950.png">
