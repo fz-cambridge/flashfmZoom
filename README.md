@@ -6,7 +6,7 @@
 
 *flashfmZoom*: a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank.
 
-Please Note: If you want to use this tool locally, the latest *Version-2023-March-21* requires a few pre-loaded large datasets (i.e.: approx. 3GB), therefore we saved all source code and datasets in this [publicly available online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) for users to download easily. Users just need download the whole folders into their local machines and run the *app.R* script (i.e.: Rshiny file) on the [RStudio](https://www.rstudio.com). 
+Please Note: If you want to use this tool locally, the latest *Version-2023-March-21* requires a few pre-loaded large datasets (i.e.: approx. 2GB), therefore we saved all source code and datasets in this [publicly available online Google Drive](https://drive.google.com/drive/folders/1lG6fKGYwLgJkKLj-ArnMZPNS-evsX5mg) for users to download easily. Users just need download the whole folders into their local machines and run the *app.R* script (i.e.: Rshiny file) on the [RStudio](https://www.rstudio.com). 
 
 Accompanying paper:
 > *flashfmZoom: a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank* <br />
