@@ -11,7 +11,7 @@ Please Note: If you want to use this tool locally, the latest *Version-2023-Marc
 Accompanying paper:
 > *flashfmZoom: a tool for joint fine-mapping and exploration of GWAS results in the UK Biobank* <br />
 > Feng Zhou, Colin Starr, Adam S Butterworth, Jennifer L Asimit <br />
-> The preprint/paper can be downloaded here...
+> The preprint/paper can be downloaded: [https://doi.org/10.1101/2023.03.21.533700](https://doi.org/10.1101/2023.03.21.533700)
 
 For a detailed user instruction: [online supplementary material](https://drive.google.com/file/d/1TjFydK_REto350Z2s7zY9deUvlX3Oyps/view?usp=sharing)
 
